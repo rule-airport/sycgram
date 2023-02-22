@@ -4,7 +4,7 @@
 
 ```shell
 # 如果选择的是安装，则安装成功后，可先使用Ctrl+P，然后使用Ctrl+Q挂到后台运行
-bash <(curl -fsL "https://raw.githubusercontent.com/iwumingz/sycgram/main/install.sh")
+bash <(curl -fsL "https://raw.githubusercontent.com/rule-airport/sycgram/main/install.sh")
 ```
 
 
